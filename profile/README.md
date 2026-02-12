@@ -46,13 +46,39 @@ Nuestra organización en GitHub es un reflejo de nuestra cultura de aprendizaje 
 
 No nos casamos con una tecnología, sino con la **calidad**. Sin embargo, nuestros repositorios suelen hablar este idioma:
 
-| **Prácticas Core** | **Lenguajes Principales** | **Infraestructura** |
-| :--- | :--- | :--- |
-| ![TDD](https://img.shields.io/badge/Practice-TDD-green?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Clean Code](https://img.shields.io/badge/Practice-Clean_Code-blue?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-orange?style=flat-square) |
-| ![Refactoring](https://img.shields.io/badge/Practice-Refactoring-purple?style=flat-square) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Git](https://img.shields.io/badge/VCS-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
+<div align="center">
+  <table style="margin:0 auto;">
+    <thead>
+      <tr>
+        <th>Prácticas Core</th>
+        <th>Lenguajes Principales</th>
+        <th>Infraestructura</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/Practice-TDD-green?style=flat-square" alt="TDD" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="pointer-events:none;" /></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/Practice-Clean_Code-blue?style=flat-square" alt="Clean Code" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/DevOps-CI%2FCD-orange?style=flat-square" alt="CI/CD" style="pointer-events:none;" /></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/Practice-Refactoring-purple?style=flat-square" alt="Refactoring" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/VCS-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="pointer-events:none;" /></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/Practice-Pair_Programming-teal?style=flat-square" alt="Pair Programming" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" style="pointer-events:none;" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" style="pointer-events:none;" /></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### 🌱 Cultura y Formación
 
